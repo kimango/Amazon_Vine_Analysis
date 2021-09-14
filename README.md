@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 
 ## Overview and Purpose:
- * The project is to explore the Amazon reviews written by members of the paid Amazon Vine Program. This would also determine if there is any bias toward favorable reviews from Vine members. 
+ * The project is to explore the Amazon reviews written by members of the paid and unpaid Amazon Vine Program. This would also determine if there is any bias toward favorable reviews from Vine members. 
 
 ## Results: 
 
