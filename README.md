@@ -9,10 +9,10 @@
 ## Summary:
 
   ### Total number of reviews
-  * Non- Vine Reviews
+   #### Non- Vine Reviews
    ![Non- vine Reviews](https://github.com/kimango/Amazon_Vine_Analysis/blob/main/module%2016th%20images/non-vine%20reviews.PNG)
    
-  * Vine Members Reviews
+   #### Vine Members Reviews
    ![Vine Members Reviews](https://github.com/kimango/Amazon_Vine_Analysis/blob/main/module%2016th%20images/vine%20reviews.PNG)
   
   ### Precentage Reviews
