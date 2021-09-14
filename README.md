@@ -21,6 +21,13 @@
    
    #### Vine Membership Percentage
    ![Vine Membership Percentage](https://github.com/kimango/Amazon_Vine_Analysis/blob/main/module%2016th%20images/paid%20percentage%20review.PNG)
+   
+  ### 5-Star Reviews
+   #### Non-Vine Membership 5-star review
+   ![Non-Vine 5-star Review](https://github.com/kimango/Amazon_Vine_Analysis/blob/main/module%2016th%20images/5%20stars%20reviews%20non-vine.PNG)
+   
+   #### Vine Membership 5-star review
+   ![Vine membership 5-star review](https://github.com/kimango/Amazon_Vine_Analysis/blob/main/module%2016th%20images/5%20star%20reviews.PNG) 
 
 
 The summary states whether or not there is bias, and the results support this statement (2 pt)
