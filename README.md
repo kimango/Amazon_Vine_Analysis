@@ -16,11 +16,11 @@
    ![Vine Members Reviews](https://github.com/kimango/Amazon_Vine_Analysis/blob/main/module%2016th%20images/vine%20reviews.PNG)
   
   ### Precentage Reviews
-  * Non-Vine Membership Percentage
+   #### Non-Vine Membership Percentage
    [Non-Vine Membership Percentage](https://github.com/kimango/Amazon_Vine_Analysis/blob/main/module%2016th%20images/percentage%20unpaid%20review.PNG)
    
   
-  * Vine Membership Percentage
+  #### Vine Membership Percentage
    ![Vine Membership Percentage](https://github.com/kimango/Amazon_Vine_Analysis/blob/main/module%2016th%20images/paid%20percentage%20review.PNG)
 
 
