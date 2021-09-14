@@ -5,9 +5,6 @@
 
 ## Results: There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
 
-
-## Summary:
-
   ### Total number of reviews
    #### Non- Vine Reviews
    ![Non- vine Reviews](https://github.com/kimango/Amazon_Vine_Analysis/blob/main/module%2016th%20images/non-vine%20reviews.PNG)
@@ -29,6 +26,7 @@
    #### Vine Membership 5-star review
    ![Vine membership 5-star review](https://github.com/kimango/Amazon_Vine_Analysis/blob/main/module%2016th%20images/5%20star%20reviews.PNG) 
 
+## Summary:
 
-The summary states whether or not there is bias, and the results support this statement (2 pt)
-An additional analysis is recommended to support the statement (2 pt)
+* As per the results, there is a bias of reviews for the Vine membership. 51% of the reviews are from Vine members and only 39% for non-vine membership. 
+
